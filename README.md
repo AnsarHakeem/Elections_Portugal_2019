@@ -1,1 +1,1 @@
-this project is prepared to know about the details and final prediction of election in portugal 2019. In this project that finds who have the higher chance of winning and how much vote they get in it # Main-Capstone-Project
+This project is prepared to know about the details and final prediction of election in portugal 2019. In this project that finds who have the higher chance of winning and how much vote they get in it # Main-Capstone-Project
